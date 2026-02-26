@@ -1,4 +1,3 @@
-```markdown
 # 🧠 AI-Powered Study Buddy 🎓
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -35,34 +34,46 @@ If you want to run this project locally on your own machine, follow these steps:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Hridayesh007/AI-Study-Buddy.git
+git clone [https://github.com/Hridayesh007/AI-Study-Buddy.git](https://github.com/Hridayesh007/AI-Study-Buddy.git)
 cd AI-Study-Buddy
+```
 
 **2. Create a virtual environment**
 
-bash
+```bash
 python -m venv venv
 # On Windows:
 venv\Scripts\activate
 # On Mac/Linux:
 source venv/bin/activate
+```
 
 **3. Install the required dependencies**
 
-bash
+```bash
 pip install -r requirements.txt
-**4. Set up your API Key**
-Create a .env file in the root directory and add your Google Gemini API key:
+```
 
-code snippet
+**4. Set up your API Key**
+
+Create a `.env` file in the root directory and add your Google Gemini API key:
+
+```env
 GEMINI_API_KEY="your_api_key_here"
+```
 
 **5. Run the application**
 
-bash
+```bash
 python -m streamlit run app.py
+```
 
-👨‍💻 Author
-Puttamraju Krishna Hridayesh Kumar
-Undergraduate Student (B.Tech ECE) @ Koneru Lakshmaiah Education Foundation
-AI/ML Virtual Intern @ IBM / Edunet
+---
+
+## 👨‍💻 Author
+
+**Puttamraju Krishna Hridayesh Kumar**
+*Undergraduate Student (B.Tech ECE) @ Koneru Lakshmaiah Education Foundation*
+*AI/ML Virtual Intern @ IBM / Edunet*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hridayesh007)
