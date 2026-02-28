@@ -34,7 +34,7 @@ If you want to run this project locally on your own machine, follow these steps:
 **1. Clone the repository**
 
 ```bash
-git clone [https://github.com/Hridayesh007/AI-Study-Buddy.git](https://github.com/Hridayesh007/AI-Study-Buddy.git)
+git clone [https://github.com/Hridayesh007/AI-Study-Buddy.git](https://github.com/Hridayesh007/AICTE_Batch7_AI-Study-Buddy.git)
 cd AI-Study-Buddy
 ```
 
@@ -67,6 +67,15 @@ GEMINI_API_KEY="your_api_key_here"
 ```bash
 python -m streamlit run app.py
 ```
+
+---
+
+---
+
+## 📺 Project Demo
+Watch the AI-Powered Study Buddy in action:
+
+https://github.com/Hridayesh007/AICTE_Batch7_AI-Study-Buddy/assets/deployment.mp4
 
 ---
 
